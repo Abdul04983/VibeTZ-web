@@ -1,0 +1,1 @@
+﻿/vibetz-games-setup --add-pool-game --add-checkers-game --add-cards-game --create-arena-ui --setup-socket-rooms --add-invite-system --add-game-results --add-leaderboard --enable-matchmaking

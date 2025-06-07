@@ -1,0 +1,1 @@
+﻿/vibetz-polish-and-deploy --finalize-auth --enhance-ui --add-tts --add-text2img --auto-translate --optimize-backend --push-notifications --finalize-chat --setup-games-proto --add-icons --add-splash --deploy-backend --deploy-web --build-apk --test-flows --fix-bugs --prepare-launch

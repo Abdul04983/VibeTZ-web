@@ -1,0 +1,32 @@
+.welcome-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #4f46e5, #3b82f6);
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+}
+
+.brand {
+  color: #facc15;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 24px;
+  background-color: white;
+  color: #3b82f6;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #facc15;
+  color: #1e3a8a;
+}

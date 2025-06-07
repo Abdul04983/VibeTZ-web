@@ -1,0 +1,1 @@
+﻿/vibetz-arena-finalize --add-pool-logic --add-checkers-logic --add-cards-logic --socket-setup --multiplayer-ready --matchmaking-placeholder --game-state-handler --update-mobile-screens --update-web-pages --sync-turns --basic-scoreboard --add-exit-reset --prepare-mvp-ready-arena
