@@ -1,15 +1,15 @@
-<View style={styles.postContainer}>
+﻿<View style={styles.postContainer}>
   <Text style={styles.username}>@jay_254</Text>
   <Text style={styles.time}>2h ago</Text>
-  <Text style={styles.postText}>Weekend vibes in Zanzibar 🏖️</Text>
+  <Text style={styles.postText}>Weekend vibes in Zanzibar ðŸ–ï¸</Text>
 
   {/* Buttons */}
   <View style={styles.buttonsContainer}>
     <TouchableOpacity style={styles.button}>
-      <Text>❤️ Like</Text>
+      <Text>â¤ï¸ Like</Text>
     </TouchableOpacity>
     <TouchableOpacity style={styles.button}>
-      <Text>💬 Comment</Text>
+      <Text>ðŸ’¬ Comment</Text>
     </TouchableOpacity>buttonsContainer: {
   flexDirection: 'row',
   marginTop: 8,
@@ -24,10 +24,10 @@ button: {
 
   </View><View style={styles.buttonRow}>
   <TouchableOpacity style={styles.likeButton}>
-    <Text>❤️ Like</Text>
+    <Text>â¤ï¸ Like</Text>
   </TouchableOpacity>
   <TouchableOpacity style={styles.commentButton}>
-    <Text>💬 Comment</Text>
+    <Text>ðŸ’¬ Comment</Text>
   </TouchableOpacity>
 </View>
 
